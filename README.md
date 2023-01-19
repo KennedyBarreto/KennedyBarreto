@@ -1,5 +1,6 @@
 - 👋 Olá, eu sou o @KennedyBarreto
-- 👀 Tenho interesse em: Desenvolvimento Web
+- 🎓 Bacharel em Ciência da Computação pelo Instituto Federal de São Paulo - IFSP
+- 👀 Tenho interesse em: Desenvolvimento Web Full Stack
 - 🌱 Estou aprendendo: React.js & Vue.js
 - 📫 Como entrar em contato: kennedygcbarreto@hotmail.com ou https://www.linkedin.com/in/kennedy-barreto-26900b179/
 
