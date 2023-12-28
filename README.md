@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🎓 Bacharel em Ciência da Computação pelo Instituto Federal de São Paulo - IFSP<br>👀 Tenho interesse em: Desenvolvimento Web Full Stack<br>🌱 Estou aprendendo: React & Node.Js</p>
+<p align="left">🎓 Bacharel em Ciência da Computação pelo Instituto Federal de São Paulo - IFSP<br>👀 Tenho interesse em: Desenvolvimento Web Full Stack<br>🌱 Estou aprendendo: React, Node & TypeScript</p>
 
 ###
 
