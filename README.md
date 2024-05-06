@@ -66,10 +66,10 @@
 
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=KennedyBarreto&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" height="140" alt="Stats Graph">
+<img src="https://github-readme-stats.vercel.app/api?username=KennedyBarreto&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" height="180" alt="Stats Graph">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KennedyBarreto&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="140" alt="Languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=KennedyBarreto&locale=pt-br&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="140" alt="Streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KennedyBarreto&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="180" alt="Languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=KennedyBarreto&locale=pt-br&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="180" alt="Streak graph"  />
 
 </div>
 
@@ -79,8 +79,8 @@
 
 ###
 
-
-![Spotify History](https://spotify-recently-played-readme.vercel.app/api?user=kennedyfreecss)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kennedyfreecss&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kennedyfreecss&count=7)
 
 
 
