@@ -12,7 +12,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/kennedy-barreto/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
@@ -29,11 +29,11 @@
 
 ###
 
-<h2 align="left">🎯Minha Stack</h2>
+<h2 align="left">🎯 Minha Stack</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -60,12 +60,27 @@
 
 ###
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KennedyBarreto&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" height="150" alt="Stats Graph">
+<h2 align="left">📈 Métricas do Github</h2>
+
+###
+
+
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=KennedyBarreto&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" height="140" alt="Stats Graph">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KennedyBarreto&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="Languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=KennedyBarreto&locale=pt-br&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="Streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KennedyBarreto&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="140" alt="Languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=KennedyBarreto&locale=pt-br&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="140" alt="Streak graph"  />
 
 </div>
 
 ###
+
+<h2 align="left">🎵 Tocados recentemente</h2>
+
+###
+
+
+![Spotify History](https://spotify-recently-played-readme.vercel.app/api?user=kennedyfreecss)
+
+
+
