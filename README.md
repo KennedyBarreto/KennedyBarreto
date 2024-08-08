@@ -2,9 +2,9 @@
 
 ###
 
-<div align="center">
+<!--<div align="center">
   <img height="200" src="https://i.ibb.co/SPq9dSn/avataaars.png" alt="avataaars" border="0">
-</div>
+</div> -->
 
 ###
 
